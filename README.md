@@ -1,3 +1,19 @@
+# Car Tuner App
+This project is built with React using create-react-app. Tune the range sliders to change different stylings of the car.
+
+### To Be Added:
+<ul>
+    <li>Ride Height</li>
+    <li>Selectable wheel style(maybe SVG)</li>
+    <li>Night Mode</li>
+</ul>
+
+### Default Create React App readme  VVVV 
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
