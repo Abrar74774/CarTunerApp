@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CarTunerApp/static/css/main.40f92c21.chunk.css",
+    "main.js": "/CarTunerApp/static/js/main.478f0363.chunk.js",
+    "main.js.map": "/CarTunerApp/static/js/main.478f0363.chunk.js.map",
+    "runtime-main.js": "/CarTunerApp/static/js/runtime-main.57efbed2.js",
+    "runtime-main.js.map": "/CarTunerApp/static/js/runtime-main.57efbed2.js.map",
+    "static/js/2.3e56f8be.chunk.js": "/CarTunerApp/static/js/2.3e56f8be.chunk.js",
+    "static/js/2.3e56f8be.chunk.js.map": "/CarTunerApp/static/js/2.3e56f8be.chunk.js.map",
+    "index.html": "/CarTunerApp/index.html",
+    "precache-manifest.d30ad32d71c59ea6412ff3e0bf7ce806.js": "/CarTunerApp/precache-manifest.d30ad32d71c59ea6412ff3e0bf7ce806.js",
+    "service-worker.js": "/CarTunerApp/service-worker.js",
+    "static/css/main.40f92c21.chunk.css.map": "/CarTunerApp/static/css/main.40f92c21.chunk.css.map",
+    "static/js/2.3e56f8be.chunk.js.LICENSE.txt": "/CarTunerApp/static/js/2.3e56f8be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57efbed2.js",
+    "static/js/2.3e56f8be.chunk.js",
+    "static/css/main.40f92c21.chunk.css",
+    "static/js/main.478f0363.chunk.js"
+  ]
+}
